@@ -1,2 +1,2 @@
-# project-limitless-UNO
-Repository for UNO card game
+# project-limitless-socket.io 
+Repository for socket.io tests
